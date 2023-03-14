@@ -1,0 +1,11 @@
+{
+  "name": "movie-search-app",
+  "version": "1.0.0",
+  "description": "a api based movie-search app with simple UI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RupamD",
+  "license": "ISC"
+}
